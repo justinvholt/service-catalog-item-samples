@@ -26,7 +26,7 @@ These instructions deploy a catalog to a sandbox. You can then customize 
 
 1. Select **Install for All Users**.
 
-1. From Setup, in the Quick Find box, enter `Service Catalog` and click **Get Started**.
+1. From Setup, in the Quick Find box, enter *Service Catalog* and click **Get Started**.
 
 1. In the Builder, explore the sample items available in the package. You can use these sample items as a reference for the items you create in your catalog.
 
